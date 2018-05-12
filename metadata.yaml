@@ -1,0 +1,44 @@
+_repo: The-Young-Visiters-or-Mr.-Salteena-s-Plan_21415
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, J.M.
+    - Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ashford, Daisy
+    aliases:
+    - Ashford, Margaret Mary Julia
+    - Devlin, Daisy
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '9908'
+    url: http://www.gutenberg.org/2009/agents/9908
+    wikipedia: http://en.wikipedia.org/wiki/Daisy_Ashford
+description: A Victorian girl of 9 wrote this short amusing novel. Sir James Barrie
+  authored the introduction and a page from the original notebook is the first illustration.
+gutenberg_issued: '2007-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s writings, English'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+title: The Young Visiters or, Mr. Salteena's Plan
+url: http://www.gutenberg.org/ebooks/21415
