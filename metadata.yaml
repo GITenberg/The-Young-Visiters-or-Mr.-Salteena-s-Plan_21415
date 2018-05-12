@@ -27,6 +27,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Daisy_Ashford
 description: A Victorian girl of 9 wrote this short amusing novel. Sir James Barrie
   authored the introduction and a page from the original notebook is the first illustration.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21415#The-Young-Visiters-or-Mr.-Salteena-s-Plan
 gutenberg_issued: '2007-05-11'
 gutenberg_type: Text
 identifiers:
